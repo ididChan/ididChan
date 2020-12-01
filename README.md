@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 📖My Course Project📖
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=linux-2020-ididChan&theme=vue)](https://github.com/CUCCS/linux-2020-ididChan) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=2020-ns-public-ididChan&theme=vue)](https://github.com/CUCCS/2020-ns-public-ididChan)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=linux-2020-ididChan&theme=vue)](https://github.com/CUCCS/linux-2020-ididChan) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=2020-ns-public-ididChan&theme=vue)](https://github.com/CUCCS/2020-ns-public-ididChan) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ididChan&repo=Scrapy_sta-dy&theme=vue)](https://github.com/ididChan/Scrapy_sta-dy) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CUCSec&repo=spider-ididChan&theme=vue)](https://github.com/CUCSec/spider-ididChan) 
   
   
 ### 📫How to Reach Me📫
