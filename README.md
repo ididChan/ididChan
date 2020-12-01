@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 ![ididChan's github stats](https://github-readme-stats.vercel.app/api?username=ididChan&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ididChan)
-
-
 📖My Course Project📖
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=linux-2020-ididChan&theme=vue)](https://github.com/CUCCS/linux-2020-ididChan) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=2020-ns-public-ididChan&theme=vue)](https://github.com/CUCCS/2020-ns-public-ididChan)
