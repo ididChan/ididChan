@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ididChan's github stats](https://github-readme-stats.vercel.app/api?username=ididChan&show_icons=true&theme=merko)
+![ididChan's github stats](https://github-readme-stats.vercel.app/api?username=ididChan&show_icons=true&theme=merko)        ![img](https://media.tenor.com/images/82a18b67d7a2f750a5103d906048585a/tenor.gif)
 
 ### 📖My Course Project📖
 
